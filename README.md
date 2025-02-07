@@ -5,8 +5,6 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daiju-yasuba&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daiju-yasuba&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daiju-yasuba&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daiju-yasuba&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daiju-yasuba&theme=solarized&utcOffset=9)
 
